@@ -1,0 +1,31 @@
+{
+  "name": "killego",
+  "version": "1.0.0",
+  "description": "Ego is your Enemy",
+  "main": "index.js",
+  "bin": {
+    "killego": "bin/ego_cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "echo \"Thank you for installing!\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amandeepmittal/killEgo.git"
+  },
+  "keywords": [
+    "ego",
+    "enemy",
+    "ryan",
+    "holiday",
+    "motivation",
+    "motivational"
+  ],
+  "author": "amandeepmittal <http://amandeepmittal.github.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amandeepmittal/killEgo/issues"
+  },
+  "homepage": "https://github.com/amandeepmittal/killEgo#readme"
+}
