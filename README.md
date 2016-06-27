@@ -1,7 +1,7 @@
 # Kill Ego
 >Ego is your Enemy
 
-Inspired [Ryan Holiday's](http://ryanholiday.net/) book [Ego is the Enemy](http://www.goodreads.com/book/show/27036528-ego-is-the-enemy).
+Inspired by [Ryan Holiday's](http://ryanholiday.net/) book [Ego is the Enemy](http://www.goodreads.com/book/show/27036528-ego-is-the-enemy).
 
 
 ## Usage
