@@ -1,6 +1,6 @@
 {
   "name": "killego",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Ego is your Enemy",
   "main": "index.js",
   "bin": {
