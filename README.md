@@ -1,4 +1,6 @@
 # Kill Ego
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/amandeepmittal/killEgo.svg)](https://greenkeeper.io/)
 >Ego is your Enemy
 
 Inspired by [Ryan Holiday's](http://ryanholiday.net/) book [Ego is the Enemy](http://www.goodreads.com/book/show/27036528-ego-is-the-enemy).
